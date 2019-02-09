@@ -8,8 +8,8 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:textAllCaps="true"
-        android:textColor="#ff0faaf5"
+        android:textColor="@color/FreezerList_Accent"
         android:textSize="30sp"
         android:textStyle="bold"
-        android:text="Freezer List"/>
+        android:text="@string/FreezerList"/>
 </RelativeLayout>

@@ -3,4 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="ToDoList_Accent">#ffd9d95d</color>
+    <color name="FreezerList_Accent">#ff0faaf5</color>
+    <color name="AppUsageList_Accent">#990000</color>
 </resources>
